@@ -6,7 +6,7 @@
 # Vocal synth voicebanks
 ## Voicebanks ported by me
 Here are the open source voicebanks ported by me to other platforms. All these voicebanks' original authors allow free re-distributing and porting in their terms of use.
-|Name|Language|Platform|Original Author|
+|Name|Language|Platform|Voicer|
 |-|-|-|-|
 |[Hitsuboku Kumi Act4](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4-vocalsharp)|Japanese (VCV)|VocalSharp|Cubialpha|
 |[Hitsuboku Kumi CHN](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal)|Chinese (Voicemith list)|Deepvocal|Cubialpha|
