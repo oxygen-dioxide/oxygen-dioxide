@@ -21,5 +21,6 @@ Here are voicebanks mirrored by me on Github. No changes are made. All these voi
 |[Hitsuboku Kumi KOR](hitsuboku-kumi-kor-mirror)|Korean|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|
 |[Milk ENG](https://github.com/oxygen-dioxide/milk-eng)|English (Arpasing)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|
 |[Milk JPN](https://github.com/oxygen-dioxide/milk-jpn)|Japanese (VCV)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|
+|[Viki Hopper JPN](https://github.com/oxygen-dioxide/viki-hopper-jpn)|Japanese (CVVC)|UTAU|[Seiun Virtual Idols](https://www.seiun.co/)|
 |[Xihelv CHN](https://github.com/oxygen-dioxide/Xihelv-Chinese-CVVC)|Chinese (CVVC)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|
 |[Xihelv JPN](https://github.com/oxygen-dioxide/Xihelv-Japanese-VCV)|Japanese (VCV)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|
