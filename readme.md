@@ -16,7 +16,7 @@ Here are open source voicebanks ported by me to other platforms. All these voice
 Here are voicebanks mirrored by me on Github. No changes are made. All these voicebanks' original authors allow free re-distributing in their terms of use.
 |Name|Language|Platform|Voicer|
 |-|-|-|-|
-|[gakuto-deshimaru-chi-jpn](https://github.com/oxygen-dioxide/gakuto-deshimaru-chi-jpn)|Japanese (CVVC)|UTAU|[UtaUtaUtau](https://github.com/UtaUtaUtau)|
+|[Gakuto Deshimaru Chi JPN](https://github.com/oxygen-dioxide/gakuto-deshimaru-chi-jpn)|Japanese (CVVC)|UTAU|[UtaUtaUtau](https://github.com/UtaUtaUtau)|
 |[Hitsuboku Kumi Act4](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4)|Japanese (VCV)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|
 |[Hitsuboku Kumi CHN](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror)|Chinese (CVVC Voicemith list)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|
 |[Hitsuboku Kumi KOR](hitsuboku-kumi-kor-mirror)|Korean|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|
