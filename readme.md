@@ -19,6 +19,7 @@ Here are voicebanks mirrored by me on Github. No changes are made. All these voi
 |[Gakuto Deshimaru Chi (学人デシマル χ)](https://github.com/oxygen-dioxide/gakuto-deshimaru-chi-jpn)|Japanese (CVVC)|UTAU|[UtaUtaUtau](https://github.com/UtaUtaUtau)|
 |[Hitsuboku Kumi (筆墨クミ) Act4](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4)|Japanese (VCV)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|
 |[Hitsuboku Kumi (筆墨クミ) CHN](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror)|Chinese (CVVC Voicemith list)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|
+|[Hitsuboku Kumi (筆墨クミ) ENG](https://github.com/oxygen-dioxide/hitsuboku-kumi-eng)|English (Cz VCCV)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|
 |[Hitsuboku Kumi (筆墨クミ) KOR](https://github.com/oxygen-dioxide/hitsuboku-kumi-kor-mirror)|Korean|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|
 |[Milk ENG](https://github.com/oxygen-dioxide/milk-eng)|English (Arpasing)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|
 |[Milk JPN](https://github.com/oxygen-dioxide/milk-jpn)|Japanese (VCV)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|
