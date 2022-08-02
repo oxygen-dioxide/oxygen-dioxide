@@ -1,6 +1,6 @@
 # 原神用语英汉词典
 # Genshin Glossary English-Chinese Dictionary
-本页面收录游戏《**原神**》中，玩家为方便交流而产生的非官方用语的英汉翻译。
+本页面收录游戏《原神》中，玩家为方便交流而产生的非官方用语的英汉翻译。
 
 内容来自[Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Glossary)，使用CC-BY-SA协议。
 
@@ -13,7 +13,7 @@
 - **1U**, **2U**, etc. 分别指“弱元素”和“强元素”，对目标造成的元素附着分别为1单位和2单位。 The strength of an elemental application, measured in units (U), of an ability. The strength of elemental application of the aura and trigger elements affect the amount of elemental reactions that can be triggered before the elemental aura is depleted. See Gauge Unit Theory.
 - **50-50** (or **50/50**) 小保底。 The 50 percent chance of getting a Rate Up 5 Star Character in Wishes due to not having any Wishes spent or getting a Rate Up Character as the previous 5 Star Wish.
 - **90** 作为动词，指把角色拉到满级90级。 To ascend and level a character to Lv. 90.
-- **[stat] / [stat] / [stat]** 圣遗物位置「时之沙」 / 「空之杯」 / 「理之冠」的属性。 The list of stats you should be using on your (in order from left to right) **Sands of Eon, Goblet of Eonothem,** and **Circlet of Logos.** The **Flower of Life** and **Plume of Death** are not included, they will always be flat HP and flat ATK.
+- **[stat] / [stat] / [stat]** 圣遗物位置「时之沙」/「空之杯」/「理之冠」的主属性。 The list of stats you should be using on your (in order from left to right) **Sands of Eon, Goblet of Eonothem,** and **Circlet of Logos.** The **Flower of Life** and **Plume of Death** are not included, they will always be flat HP and flat ATK.
 
 ## A
 - **A0**, **A1**, **A2**, etc. 角色突破层数。例如"A5 Amber"指突破5层（70~80级）的安柏 The Ascension Phase of a Character (i.e. "A5 Amber" refers to Amber with Ascension level 5).
@@ -27,7 +27,7 @@
 - **Apologems** 原石补偿 "Apology Primogems", issued as compensation when HoYoverse makes bug fixes.
 - **AR** 冒险等阶 Abbreviation of Adventure Rank.
 - **ATK** 攻击力 Abbreviation of the "Attack" attribute.
-- **Aura** 挂元素，为了协助队友打元素反应，先给敌人加上元素附着，例如Aura Character指挂元素工具人 Either refers to Enemy Auras or to an element present on an enemy or character (the first element used in an Elemental Reaction). An Aura Character is a character that consistently applies their element to an enemy first.
+- **Aura** 挂元素，为了协助队友打元素反应，先给敌人加上元素附着，例如Aura Character指挂元素工具人。 Either refers to Enemy Auras or to an element present on an enemy or character (the first element used in an Elemental Reaction). An Aura Character is a character that consistently applies their element to an enemy first.
 - **Auto Attack** (or **AA**) 平A，普通攻击 The Normal Attack of Characters.
 
 ## B
@@ -37,48 +37,48 @@
 - **Bleeding** 流血，持续失去生命值的debuff，例如流血狗 Refers to a debuff characterized by a continuous loss of HP, such as Corrosion.
 - **Bot** 专门使用某个功能的角色。例如"Shieldbot"指专门提供护盾的角色（盾辅），"Ult Bot"指开个大就走的角色 When used after a skill or ability name, it means primarily using a character for said ability. For example, a "Shieldbot" refers to supports used mainly for their shields, and an "Ult Bot" refers to Burst Supports.
 - **BP** 纪行 Abbreviation of "Battle Pass".
-- **BS** Abbreviation of the Artifact set Blizzard Strayer.
-- **BSC** Abbreviation of the Artifact set Bloodstained Chivalry.
+- **BS** 冰套，圣遗物套装「冰风迷途的勇士」 Abbreviation of the Artifact set Blizzard Strayer.
+- **BSC** 圣遗物套装「染血的骑士道」 Abbreviation of the Artifact set Bloodstained Chivalry.
 - **Buff** A positive effect (or the ability that produces it).
-- **Build** A specific combination of a Weapon and Artifacts equipped on a character. May also include #T|talent priority.
-- **Burst** Shortened form of Elemental Burst.
-- **Burst Support** Refers to characters in the team whose main function is dealing damage through their Elemental Burst.
+- **Build** 角色配装，指角色使用的武器+圣遗物组合，有时也包括天赋优先级。 A specific combination of a Weapon and Artifacts equipped on a character. May also include talent priority.
+- **Burst** 大招，元素爆发 Shortened form of Elemental Burst.
+- **Burst Support** 在配队中主要通过大招打伤害的角色 Refers to characters in the team whose main function is dealing damage through their Elemental Burst.
 
 ## C
-- **C0**, **C1**, **C2**, **C3**, **C4**, **C5**, **C6** The Constellations of a character, often to refer to how many constellations a character has.
-- **C6R5** A character (typically a 5-star character) with six Constellations, equipped with a weapon (typically a 5-star weapon) whose Refinement rank is at 5 (see Glossary#R|R1, R2, ...). The absolute peak of a character's power, usually requiring significant money expenditure to achieve.
-- **CA** Abbreviation of "Charged Attack".
-- **Cancel** or **Animation Cancel** Ending a skill's or attack sequence's animation early by starting a different animation in the middle of the previous animation. The most common cancels are Jump Cancels and Dash Cancels which are performed by Jumping or Dashing to skip any remaining animation frames after damage is already dealt.
-- **Capped** The state of the Original Resin counter being at the natural recharge limit.
+- **C0**, **C1**, **C2**, **C3**, **C4**, **C5**, **C6** 0命，1命，2命，3命，4命，5命，6命，指角色的命之座已解锁0层/1层/2层，以此类推。 The Constellations of a character, often to refer to how many constellations a character has.
+- **C6R5** （通常指五星角色/武器）满命满精，即拥有6层命之座和精5专武，是通过付费养成一个角色的上限。 A character (typically a 5-star character) with six Constellations, equipped with a weapon (typically a 5-star weapon) whose Refinement rank is at 5 (see Glossary#R|R1, R2, ...). The absolute peak of a character's power, usually requiring significant money expenditure to achieve.
+- **CA** 重击 Abbreviation of "Charged Attack".
+- **Cancel** or **Animation Cancel** 取消后摇 Ending a skill's or attack sequence's animation early by starting a different animation in the middle of the previous animation. The most common cancels are Jump Cancels and Dash Cancels which are performed by Jumping or Dashing to skip any remaining animation frames after damage is already dealt.
+- **Capped** 原粹树脂满了 The state of the Original Resin counter being at the natural recharge limit.
 - **Carry** One or more party members who contribute significantly to the party. The most common types of carrying are through dealing the most damage or healing party members.
-- **CBT** Abbreviation of "Closed Beta Test", referring to the beta tests of the game in the past prior to its global release. Version 0.0.1, Version 0.7.1 and Version 0.9.9 are the three closed beta tests.
-- **CC** Abbreviation of either "Crowd Control" or the "CRIT Rate" or "Critical Chance" attribute, depending on the context.
-- **CD** Abbreviation of either "Cooldown" or the "CRIT DMG" or "Critical Damage" attribute, depending on the context.
-- **CDMG** Abbreviation of Crit DMG or "Critical Damage" attribute.
-- **Circlet** Shortened form for the Circlet of Logos Artifact piece.
-- **Cleanse** Removing the imbued elements or Ley Line Disorders by intentionally causing elemental reactions on the character.
-- **Comp** Abbreviation of "Team Composition" which refers to a particular combination of characters used in a team.
-- **CR** or **CRate** Abbreviation of "CRIT Rate" attribute.
-- **Crit Fishing** The practice of using extremely low CRIT Rate (in order to use higher damage stats such as CRIT DMG) and taking multiple attempts to achieve a run where all or most attacks crit.
-- **Crit Value** (or **CV**) A way of quantifying the amount of investment into total CRIT on a character or artifact. <math>\text{CV} = \text{CRIT DMG} + 2 \times \text{CRIT Rate}</math>. On a single artifact, a crit value of 20-30 is considered decent, 30-40 is considered very good, and 40 or more is considered excellent. Not to be confused with Character Voices.
-- **Crowning** Spending a Crown of Insight to level a character's combat talents|talent(s) (Normal Attack, Elemental Skill, or Elemental Burst) to their final base rank (Lv. 10, not including levels from Constellations).
-- **Cup** Another term for the Goblet of Eonothem Artifact piece.
-- **CWoF**/**CW** Abbreviation of the Artifact set Crimson Witch of Flames.
-- **CY** Abbreviation of Chongyun.
+- **CBT** 封闭测试，在游戏全球开服前的内测 Abbreviation of "Closed Beta Test", referring to the beta tests of the game in the past prior to its global release. Version 0.0.1, Version 0.7.1 and Version 0.9.9 are the three closed beta tests.
+- **CC** 可以指“群控”或“暴击率” Abbreviation of either "Crowd Control" or the "CRIT Rate" or "Critical Chance" attribute, depending on the context.
+- **CD** 可以指“冷却”或“暴击伤害” Abbreviation of either "Cooldown" or the "CRIT DMG" or "Critical Damage" attribute, depending on the context.
+- **CDMG** 暴击伤害 Abbreviation of Crit DMG or "Critical Damage" attribute.
+- **Circlet** 头，圣遗物部位「理之冠」 Shortened form for the Circlet of Logos Artifact piece.
+- **Cleanse** 通过给自己挂元素来消除地脉异常的debuff。 Removing the imbued elements or Ley Line Disorders by intentionally causing elemental reactions on the character.
+- **Comp** 队伍配置 Abbreviation of "Team Composition" which refers to a particular combination of characters used in a team.
+- **CR** or **CRate** 暴击率 Abbreviation of "CRIT Rate" attribute.
+- **Crit Fishing** 用低暴击率和较高的其他属性（例如暴击伤害），通过多次重复战斗来打出暴击，或者说“凹” The practice of using extremely low CRIT Rate (in order to use higher damage stats such as CRIT DMG) and taking multiple attempts to achieve a run where all or most attacks crit.
+- **Crit Value** (or **CV**) 角色或圣遗物的双暴分数，暴击伤害+暴击率×2 A way of quantifying the amount of investment into total CRIT on a character or artifact. CV = CRIT_DMG + 2 ×CRIT_Rate. On a single artifact, a crit value of 20-30 is considered decent, 30-40 is considered very good, and 40 or more is considered excellent. Not to be confused with Character Voices.
+- **Crowning** 消耗「智识之冕」（皇冠），将角色的战斗天赋升到满级10级 Spending a Crown of Insight to level a character's combat talents (Normal Attack, Elemental Skill, or Elemental Burst) to their final base rank (Lv. 10, not including levels from Constellations).
+- **Cup** 杯，圣遗物部位「空之杯」 Another term for the Goblet of Eonothem Artifact piece.
+- **CWoF**/**CW** 魔女套，火套，圣遗物套装「炽烈的炎之魔女」 Abbreviation of the Artifact set Crimson Witch of Flames.
+- **CY** 重云 Abbreviation of Chongyun.
 
 ## D
-- **Dailies** The four Daily Commissions. Some players also include the Battle Pass#Daily Missions|daily Battle Pass missions when using this term.
-- **DB**/**DBane** Abbreviation of the Polearm weapon Dragon's Bane.
-- **DD** Abbreviation of "Damage Dealer".
-- **Debuff** A negative effect (or the ability that produces it).
-- **DEF** Abbreviation of "Defense" attribute.
-- **DM** Abbreviation of the Polearm weapon Deathmatch.
-- **Dolphin** A player who spends moderate amounts of money on the game.
-- **DoT** Abbreviation of "Damage over Time".
-- **Downtime** The period of a cooldown during which an Elemental Skill, Elemental Burst, or other effect becomes inactive; compare with #U|uptime. The term may also be used to refer to a server maintenance period (typically Version#Maintenance|between Version updates).
-- **DPS** Abbreviation of "Damage per Second". Typically used to refer to any character who serves as the party's main damage dealer, but also may be used to refer to the party's general damage output. In the community, is sometimes jokingly abbreviated as "Damage per Screenshot" in situations where one tries to display high damage numbers through #C|Crit Fishing.
-- **Dragonstrike**/**Dougragon Strike**/**Dougstrike** Using Hitlag to boost jumping height, allowing melee characters to perform Plunging Attacks regardless of terrain.
-- **Driver** A character that is used on-field to constantly trigger other characters' off-field abilities. Drivers often have fast animations, consistent elemental application, or other on-field utility. For example, Sucrose is a popular driver for Beidou's Stormbreaker in a Sucrose, Beidou, Fischl, and Xingqiu #T|Taser team.
+- **Dailies** 4个每日委托，有时也包括纪行中的每日任务。 The four Daily Commissions. Some players also include the daily Battle Pass missions when using this term.
+- **DB**/**DBane** 武器「匣里灭辰」 Abbreviation of the Polearm weapon Dragon's Bane.
+- **DD** 伤害来源 Abbreviation of "Damage Dealer".
+- **Debuff** 负面作用 A negative effect (or the ability that produces it).
+- **DEF** 防御力 Abbreviation of "Defense" attribute.
+- **DM** 武器「决斗之枪」 Abbreviation of the Polearm weapon Deathmatch.
+- **Dolphin** 氪佬，大量充值的玩家 A player who spends moderate amounts of money on the game.
+- **DoT** 持续伤害 Abbreviation of "Damage over Time".
+- **Downtime** 技能或效果的空窗期，或者指版本更新时的停服维护时间 The period of a cooldown during which an Elemental Skill, Elemental Burst, or other effect becomes inactive; compare with uptime. The term may also be used to refer to a server maintenance period (typically between Version updates).
+- **DPS** 每秒伤害 Abbreviation of "Damage per Second". Typically used to refer to any character who serves as the party's main damage dealer, but also may be used to refer to the party's general damage output. In the community, is sometimes jokingly abbreviated as "Damage per Screenshot" in situations where one tries to display high damage numbers through #C|Crit Fishing.
+- **Dragonstrike**/**Dougragon Strike**/**Dougstrike** 登龙剑 Using Hitlag to boost jumping height, allowing melee characters to perform Plunging Attacks regardless of terrain.
+- **Driver** 驾驶员 A character that is used on-field to constantly trigger other characters' off-field abilities. Drivers often have fast animations, consistent elemental application, or other on-field utility. For example, Sucrose is a popular driver for Beidou's Stormbreaker in a Sucrose, Beidou, Fischl, and Xingqiu Taser team.
 
 ## E
 - **E** Refers to character Elemental Skills, after its default key binding on PC.
