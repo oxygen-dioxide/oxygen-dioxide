@@ -81,40 +81,40 @@
 - **Driver** 驾驶员 A character that is used on-field to constantly trigger other characters' off-field abilities. Drivers often have fast animations, consistent elemental application, or other on-field utility. For example, Sucrose is a popular driver for Beidou's Stormbreaker in a Sucrose, Beidou, Fischl, and Xingqiu Taser team.
 
 ## E
-- **E** Refers to character Elemental Skills, after its default key binding on PC.
-- **EC** Abbreviation of the Electro-Charged Elemental Reaction.
-- **EL** Abbreviation of the Polearm weapon Engulfing Lightning.
-- **Elites** Abbreviation of "Elite Enemies" such as Eye of the Storm and Ruin Graders. Not to be confused with "Elite Bosses", a former in-game name for Normal Bosses such as Electro Hypostasis and Pyro Regisvine.
-- **EM** Abbreviation of "Elemental Mastery" attribute.
-- **Enabler** Typically used to refer to a character that can allow a different character to deal more damage, usually through the application of an #A|Aura element. For example, the term "enabler" has been used to describe Tartaglia's role in applying Hydro very quickly, allowing Xiangling's Pyronado to Vaporize and deal more damage.
-- **EoP** Abbreviation of the Catalyst weapon Eye of Perception.
-- **EoSF/ESF** Abbreviation of the Artifact set Emblem of Severed Fate.
-- **ER** Abbreviation of "Energy Recharge" attribute.
-- **Experience Books** (or **EXP Books**, **XP Books**) Refers to the :Category:Character EXP Materials|Character EXP Materials that can be used to increase a Characters|Character's level.
+- **E** 元素战技 Refers to character Elemental Skills, after its default key binding on PC.
+- **EC** 感电 Abbreviation of the Electro-Charged Elemental Reaction.
+- **EL** 武器「薙草之稻光」 Abbreviation of the Polearm weapon Engulfing Lightning.
+- **Elites** 精英敌人 Abbreviation of "Elite Enemies" such as Eye of the Storm and Ruin Graders. Not to be confused with "Elite Bosses", a former in-game name for Normal Bosses such as Electro Hypostasis and Pyro Regisvine.
+- **EM** 元素精通 Abbreviation of "Elemental Mastery" attribute.
+- **Enabler** 挂元素辅助，通过挂元素使队友打出更高伤害，例如万达国际队中的达达利亚 Typically used to refer to a character that can allow a different character to deal more damage, usually through the application of an Aura element. For example, the term "enabler" has been used to describe Tartaglia's role in applying Hydro very quickly, allowing Xiangling's Pyronado to Vaporize and deal more damage.
+- **EoP** 武器「昭心」 Abbreviation of the Catalyst weapon Eye of Perception.
+- **EoSF/ESF** 绝缘套，圣遗物套装「绝缘之旗印」 Abbreviation of the Artifact set Emblem of Severed Fate.
+- **ER** 元素充能效率 Abbreviation of "Energy Recharge" attribute.
+- **Experience Books** (or **EXP Books**, **XP Books**) 经验书，角色经验素材 Refers to the :Category:Character EXP Materials|Character EXP Materials that can be used to increase a Characters|Character's level.
 
 ## F
-- **FD** Abbreviation of the Sword weapon Festering Desire.
-- **Feather** Another term for the Plume of Death Artifact piece.
-- **Fireworks** Another name for the Childe #T|Taser team composition. Can also refer to team compositions using Yoimiya and the Overloaded reaction.
-- **Flagship Event** The main event during a Version. See Flagship Event.
-- **Flower** Shortened form for the Flower of Life Artifact piece.
-- **Footstool** Using certain enemy collision boxes to gain altitude in order to perform Plunging Attacks regardless of terrain.
-- **Forward Vape** or **Forward Melt** The 2× multiplier version of the Vaporize reaction (applying Hydro on Pyro) or the Melt reaction (applying Pyro on Cryo) respectively, as opposed to #R|Reverse Vape or Reverse Melt.
-- **Fragile**/**Frag** Shortened form of Fragile Resin.
-- **Free to Play** (or **F2P**) Refers to players who do not spend real money on the game.
-- **Freemogems** Primogems earned through natural progression such as Daily Commissions, Quests, Events, Achievements, and Promotional Codes.
+- **FD** 武器「腐殖之剑」 Abbreviation of the Sword weapon Festering Desire.
+- **Feather** 羽，圣遗物部位「死之羽」 Another term for the Plume of Death Artifact piece.
+- **Fireworks** 魔王武装队，或者指烟花武装队 Another name for the Childe Taser team composition. Can also refer to team compositions using Yoimiya and the Overloaded reaction.
+- **Flagship Event** 版本主题活动 The main event during a Version. See Flagship Event.
+- **Flower** 花，圣遗物部位「生之花」 Shortened form for the Flower of Life Artifact piece.
+- **Footstool** 踩模型 Using certain enemy collision boxes to gain altitude in order to perform Plunging Attacks regardless of terrain.
+- **Forward Vape** or **Forward Melt** 正蒸发/正融化，指水系触发的蒸发或火系触发的融化，可打出2倍伤害 The 2× multiplier version of the Vaporize reaction (applying Hydro on Pyro) or the Melt reaction (applying Pyro on Cryo) respectively, as opposed to Reverse Vape or Reverse Melt.
+- **Fragile**/**Frag** 脆弱树脂 Shortened form of Fragile Resin.
+- **Free to Play** (or **F2P**) 免费玩家，零氪玩家 Refers to players who do not spend real money on the game.
+- **Freemogems** 免费原石 Primogems earned through natural progression such as Daily Commissions, Quests, Events, Achievements, and Promotional Codes.
 
 ## G
-- **GAA** Acronym referring to the Golden Apple Archipelago region.
-- **Gacha** Refers to games that exchange in-game currency for random virtual items, with an option to purchase the in-game currency with real-world money. In ''Genshin Impact'', Wishes are the gacha mechanic, spending Acquaint Fates, Intertwined Fates, or Primogems to obtain characters and weapons.
-- **Gear** Refers to Artifacts equipped on Characters, may include Weapons.
-- **Gems** Abbreviation for Primogems. Can also refer to Character Ascension Materials|Character Ascension Gems or Gemstones.
-- **Glad** Shortened form of the Artifact set Gladiator's Finale.
-- **Gob/Goblet** Shortened form for the Goblet of Eonothem Artifact piece.
-- **Guarantee** Certainty of obtaining the Rate Up Character in Wishes due to having lost the ##|50/50 before.
+- **GAA** 金苹果群岛 Acronym referring to the Golden Apple Archipelago region.
+- **Gacha** 抽卡 Refers to games that exchange in-game currency for random virtual items, with an option to purchase the in-game currency with real-world money. In ''Genshin Impact'', Wishes are the gacha mechanic, spending Acquaint Fates, Intertwined Fates, or Primogems to obtain characters and weapons.
+- **Gear** 角色装备的圣遗物，有时也包括武器 Refers to Artifacts equipped on Characters, may include Weapons.
+- **Gems** 原石，或者指角色突破元素石 Abbreviation for Primogems. Can also refer to Character Ascension Gems or Gemstones.
+- **Glad** 角斗士套，圣遗物套装「角斗士的终幕礼」 Shortened form of the Artifact set Gladiator's Finale.
+- **Gob/Goblet** 杯，圣遗物部位「空之杯」 Shortened form for the Goblet of Eonothem Artifact piece.
+- **Guarantee** 大保底 Certainty of obtaining the Rate Up Character in Wishes due to having lost the 50/50 before.
 
 ## H
-- **Hard Pity** The phenomenon of having a guaranteed 5 Star on the 90th Wish on the Wanderlust Invocation and Wishes#Character Event Wishes|Character Event Wish, or on the 80th Wish on the Wishes#Weapon Event Wishes|Weapon Event Wish.
+- **Hard Pity** 卡着保底最后一抽才抽中想要的物品（角色池90抽，武器池80抽） The phenomenon of having a guaranteed 5 Star on the 90th Wish on the Wanderlust Invocation and Character Event Wish, or on the 80th Wish on the Weapon Event Wish.
 - **Hat** or **Headpiece** Another term for the Circlet of Logos Artifact piece.
 - **Healer** Refers to a character whose talents can regenerate HP.
 - **Hitbox** The area that, when an attack successfully crosses, deals damage to enemies and/or players as well as apply status effects.
