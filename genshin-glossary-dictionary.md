@@ -116,18 +116,18 @@
 ## H
 - **Hard Pity** 卡着保底最后一抽才抽中想要的物品（角色池90抽，武器池80抽） The phenomenon of having a guaranteed 5 Star on the 90th Wish on the Wanderlust Invocation and Character Event Wish, or on the 80th Wish on the Weapon Event Wish.
 - **Hat** or **Headpiece** Another term for the Circlet of Logos Artifact piece.
-- **Healer** Refers to a character whose talents can regenerate HP.
+- **Healer** 奶妈，治疗角色 Refers to a character whose talents can regenerate HP.
 - **Hitbox** The area that, when an attack successfully crosses, deals damage to enemies and/or players as well as apply status effects.
-- **Hitlag** Additional frozen frames added to a character's attack animation when melee attacks hit an enemy or object. The character is momentarily paused for a few frames depending on the type of enemy or object to give the player the impression of weight behind their attacks.
+- **Hitlag** 卡帧 Additional frozen frames added to a character's attack animation when melee attacks hit an enemy or object. The character is momentarily paused for a few frames depending on the type of enemy or object to give the player the impression of weight behind their attacks.
 - **HoD** Abbreviation of either the Artifact set Heart of Depth or the Sword weapon Harbinger of Dawn.
 - **HoOD**/**Husk** Abbreviation of the Artifact set Husk of Opulent Dreams.
 - **Hourglass** Another term for the Sands of Eon Artifact piece.
-- **HP** Abbreviation of "Health Points", "Hit Points", or "Health".
+- **HP** 生命值，血量 Abbreviation of "Health Points", "Hit Points", or "Health".
 - **Hypercarry** A character that has a higher damage output than other characters because of innate scaling.
 
 ## I
-- **Ice Bridge**/**Ice Bridging** Refers to using a Cryo Character's elemental application via Elemental Infusion|Infused Normal Attacks, Elemental Skill, or Elemental Burst to freeze and traverse water by walking on ice. Kaeya's Elemental Skill, Frostgnaw, is a popular ability to use for this purpose because of its low cooldown and ability to create relatively long lasting ice. Certain Anemo abilities such as the Traveler's Palm Vortex (held) can be used to spread existing ice.
-- **Internal Cooldown** (or **ICD**) A hidden Internal Cooldown|cooldown of an elemental source before they can reapply elements or trigger an Elemental Reaction again.
+- **Ice Bridge**/**Ice Bridging** Refers to using a Cryo Character's elemental application via Infused Normal Attacks, Elemental Skill, or Elemental Burst to freeze and traverse water by walking on ice. Kaeya's Elemental Skill, Frostgnaw, is a popular ability to use for this purpose because of its low cooldown and ability to create relatively long lasting ice. Certain Anemo abilities such as the Traveler's Palm Vortex (held) can be used to spread existing ice.
+- **Internal Cooldown** (or **ICD**) 内置CD，内置冷却时间 A hidden Internal cooldown of an elemental source before they can reapply elements or trigger an Elemental Reaction again.
 - **Invincibility Frame** (also **iFrame** or **I-Frame**) A brief moment of invulnerability caused by certain animations. In Genshin Impact, this typically refers to dodging enemy attacks by sprinting or using a character's Elemental Burst.
 
 ## J
