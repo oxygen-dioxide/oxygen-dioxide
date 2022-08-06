@@ -146,16 +146,16 @@
 - **LW** 渡火套，圣遗物套装「渡过烈火的贤人」 Abbreviation of the Artifact set Lavawalker.
 
 ## M
-- **Main** (plural **Mains**) (''noun'') A character that a player chooses to primarily use; (''noun'') A player who chooses to primarily use a particular character; (''verb'') The action of choosing to primarily use a character.
-- **Main DPS** or **MDPS** A generic term that tends to refer to the character that does the majority of a team's damage.
-- **Mainstat** The primary stat(s) for Weapons and Artifacts.
-- **Mats** Abbreviation of "Materials".
-- **MC** Abbreviation of "Main Character", the Traveler.
+- **Main** (plural **Mains**) (''noun'') 自己主要使用的角色 A character that a player chooses to primarily use; (''noun'') A player who chooses to primarily use a particular character; (''verb'') The action of choosing to primarily use a character.
+- **Main DPS** or **MDPS** 主C，队伍中造成大部分伤害的角色 A generic term that tends to refer to the character that does the majority of a team's damage.
+- **Mainstat** 武器和圣遗物的主属性 The primary stat(s) for Weapons and Artifacts.
+- **Mats** 材料 Abbreviation of "Materials".
+- **MC** 主角，旅行者 Abbreviation of "Main Character", the Traveler.
 - **Metagame** (or **Meta**) The strategic aspect of a game that transcends the boundaries of conventional gameplay. In ''Genshin Impact'', the ''meta'' involves decisions intended to make combat gameplay more efficient, such as selecting characters preferred for their higher damage outputs, or using certain team compositions of characters with good synergy.
-- **MHY** Abbreviation of miHoYo, the developers of ''Genshin Impact''.
-- **Mob** Shortened form of "Mobile object". Usually refers to enemies.
-- **Mono(-element)** A team where all four characters in the team share the same element. Alternatively, an Anemo character with a talent that shares Elemental DMG Bonuses or a 4-Piece Viridescent Venerer may take the fourth slot.
-- **Morgana** A team composition comprised of Mona, Ganyu, Diona, and Venti.
+- **MHY** 米哈游 Abbreviation of miHoYo, the developers of ''Genshin Impact''.
+- **Mob** “可移动对象”的简称，通常指敌人 Shortened form of "Mobile object". Usually refers to enemies.
+- **Mono(-element)** 纯色队 A team where all four characters in the team share the same element. Alternatively, an Anemo character with a talent that shares Elemental DMG Bonuses or a 4-Piece Viridescent Venerer may take the fourth slot.
+- **Morgana** 莫甘娜 A team composition comprised of Mona, Ganyu, Diona, and Venti.
 - **Motion Value** (or **MV**) The percentage of a character's stats dealt using an attack (usually found in the attribute scaling section on character Talents#Combat Talents|talent pages). Motion Value per second (or **MV/s**) is often used to help calculate character #D|DPS.
 - **Moveset** Refers collectively to a character's Combat Talents.
 - **Multi** (plural **Multis/Multies**, also "Multipull", "10 Pull", "10×", etc.) Colloquial term for doing 10 Wishes at once, by spending 10 Intertwined Fates, 10 Acquaint Fates or 1,600 Primogems, as opposed to "#S|Singles" which are a single Wish at a time.
