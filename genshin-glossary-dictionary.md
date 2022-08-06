@@ -2,7 +2,9 @@
 # Genshin Glossary English-Chinese Dictionary
 本页面收录游戏《原神》中，玩家为方便交流而产生的非官方用语的英汉翻译。
 
-内容来自[Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Glossary)，使用CC-BY-SA协议。
+内容来自[Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Glossary)，基于原始页面[2022年7月18日 22:24版本](https://genshin-impact.fandom.com/wiki/Glossary?oldid=756509)
+
+本页面在CC-BY-SA协议下提供。
 
 可使用Ctrl+F在本页面查找。
 
@@ -13,7 +15,7 @@
 - **1U**, **2U**, etc. 分别指“弱元素”和“强元素”，对目标造成的元素附着分别为1单位和2单位。 The strength of an elemental application, measured in units (U), of an ability. The strength of elemental application of the aura and trigger elements affect the amount of elemental reactions that can be triggered before the elemental aura is depleted. See Gauge Unit Theory.
 - **50-50** (or **50/50**) 小保底。 The 50 percent chance of getting a Rate Up 5 Star Character in Wishes due to not having any Wishes spent or getting a Rate Up Character as the previous 5 Star Wish.
 - **90** 作为动词，指把角色拉到满级90级。 To ascend and level a character to Lv. 90.
-- **[stat] / [stat] / [stat]** 圣遗物位置「时之沙」/「空之杯」/「理之冠」的主属性。 The list of stats you should be using on your (in order from left to right) **Sands of Eon, Goblet of Eonothem,** and **Circlet of Logos.** The **Flower of Life** and **Plume of Death** are not included, they will always be flat HP and flat ATK.
+- **[stat] / [stat] / [stat]** 圣遗物部位「时之沙」/「空之杯」/「理之冠」的主属性。 The list of stats you should be using on your (in order from left to right) **Sands of Eon, Goblet of Eonothem,** and **Circlet of Logos.** The **Flower of Life** and **Plume of Death** are not included, they will always be flat HP and flat ATK.
 
 ## A
 - **A0**, **A1**, **A2**, etc. 角色突破层数。例如"A5 Amber"指突破5层（70~80级）的安柏 The Ascension Phase of a Character (i.e. "A5 Amber" refers to Amber with Ascension level 5).
@@ -64,7 +66,7 @@
 - **Crowning** 消耗「智识之冕」（皇冠），将角色的战斗天赋升到满级10级 Spending a Crown of Insight to level a character's combat talents (Normal Attack, Elemental Skill, or Elemental Burst) to their final base rank (Lv. 10, not including levels from Constellations).
 - **Cup** 杯，圣遗物部位「空之杯」 Another term for the Goblet of Eonothem Artifact piece.
 - **CWoF**/**CW** 魔女套，火套，圣遗物套装「炽烈的炎之魔女」 Abbreviation of the Artifact set Crimson Witch of Flames.
-- **CY** 重云 Abbreviation of Chongyun.
+- **CY** 角色「重云」 Abbreviation of Chongyun.
 
 ## D
 - **Dailies** 4个每日委托，有时也包括纪行中的每日任务。 The four Daily Commissions. Some players also include the daily Battle Pass missions when using this term.
@@ -90,7 +92,7 @@
 - **EoP** 武器「昭心」 Abbreviation of the Catalyst weapon Eye of Perception.
 - **EoSF/ESF** 绝缘套，圣遗物套装「绝缘之旗印」 Abbreviation of the Artifact set Emblem of Severed Fate.
 - **ER** 元素充能效率 Abbreviation of "Energy Recharge" attribute.
-- **Experience Books** (or **EXP Books**, **XP Books**) 经验书，角色经验素材 Refers to the :Category:Character EXP Materials|Character EXP Materials that can be used to increase a Characters|Character's level.
+- **Experience Books** (or **EXP Books**, **XP Books**) 经验书，角色经验素材 Refers to the :Category:Character EXP Materials|Character EXP Materials that can be used to increase a Character's level.
 
 ## F
 - **FD** 武器「腐殖之剑」 Abbreviation of the Sword weapon Festering Desire.
@@ -117,31 +119,31 @@
 - **Hard Pity** 卡着保底最后一抽才抽中想要的物品（角色池90抽，武器池80抽） The phenomenon of having a guaranteed 5 Star on the 90th Wish on the Wanderlust Invocation and Character Event Wish, or on the 80th Wish on the Weapon Event Wish.
 - **Hat** or **Headpiece** Another term for the Circlet of Logos Artifact piece.
 - **Healer** 奶妈，治疗角色 Refers to a character whose talents can regenerate HP.
-- **Hitbox** The area that, when an attack successfully crosses, deals damage to enemies and/or players as well as apply status effects.
+- **Hitbox** 攻击的碰撞箱，该空间范围内的目标会被判定为命中 The area that, when an attack successfully crosses, deals damage to enemies and/or players as well as apply status effects.
 - **Hitlag** 卡帧 Additional frozen frames added to a character's attack animation when melee attacks hit an enemy or object. The character is momentarily paused for a few frames depending on the type of enemy or object to give the player the impression of weight behind their attacks.
-- **HoD** Abbreviation of either the Artifact set Heart of Depth or the Sword weapon Harbinger of Dawn.
-- **HoOD**/**Husk** Abbreviation of the Artifact set Husk of Opulent Dreams.
-- **Hourglass** Another term for the Sands of Eon Artifact piece.
+- **HoD** 水套，圣遗物套装「沉沦之心」，或者指武器「黎明神剑」 Abbreviation of either the Artifact set Heart of Depth or the Sword weapon Harbinger of Dawn.
+- **HoOD**/**Husk** 华馆套，圣遗物套装「华馆梦醒形骸记」 Abbreviation of the Artifact set Husk of Opulent Dreams.
+- **Hourglass** 沙，圣遗物部位「时之沙」 Another term for the Sands of Eon Artifact piece.
 - **HP** 生命值，血量 Abbreviation of "Health Points", "Hit Points", or "Health".
 - **Hypercarry** A character that has a higher damage output than other characters because of innate scaling.
 
 ## I
-- **Ice Bridge**/**Ice Bridging** Refers to using a Cryo Character's elemental application via Infused Normal Attacks, Elemental Skill, or Elemental Burst to freeze and traverse water by walking on ice. Kaeya's Elemental Skill, Frostgnaw, is a popular ability to use for this purpose because of its low cooldown and ability to create relatively long lasting ice. Certain Anemo abilities such as the Traveler's Palm Vortex (held) can be used to spread existing ice.
+- **Ice Bridge**/**Ice Bridging** 凝冰渡海 Refers to using a Cryo Character's elemental application via Infused Normal Attacks, Elemental Skill, or Elemental Burst to freeze and traverse water by walking on ice. Kaeya's Elemental Skill, Frostgnaw, is a popular ability to use for this purpose because of its low cooldown and ability to create relatively long lasting ice. Certain Anemo abilities such as the Traveler's Palm Vortex (held) can be used to spread existing ice.
 - **Internal Cooldown** (or **ICD**) 内置CD，内置冷却时间 A hidden Internal cooldown of an elemental source before they can reapply elements or trigger an Elemental Reaction again.
-- **Invincibility Frame** (also **iFrame** or **I-Frame**) A brief moment of invulnerability caused by certain animations. In Genshin Impact, this typically refers to dodging enemy attacks by sprinting or using a character's Elemental Burst.
+- **Invincibility Frame** (also **iFrame** or **I-Frame**) 无敌帧 A brief moment of invulnerability caused by certain animations. In Genshin Impact, this typically refers to dodging enemy attacks by sprinting or using a character's Elemental Burst.
 
 ## J
 
 ## K
-- **Kazu** Abbreviation of Kaedehara Kazuha.
-- **Kit** Refers collectively to a character's Talents.
-- **KQ** Abbreviation of Keqing.
+- **Kazu** 角色「枫原万叶」 Abbreviation of Kaedehara Kazuha.
+- **Kit** 指一个角色的全部天赋 Refers collectively to a character's Talents.
+- **KQ** 角色「刻晴」 Abbreviation of Keqing.
 
 ## L
-- **LoS** Abbreviation of "Line of Sight".
-- **Low to Play** (or **L2P**) Refers to players who spend a little bit of money on the game, usually means only Blessing of the Welkin Moon, Battle Pass Gnostic Hymn, and sometimes on Wishes.
-- **LP** Abbreviation of the Catalyst weapon Lost Prayer to the Sacred Winds.
-- **LW** Abbreviation of the Artifact set Lavawalker.
+- **LoS** 视线；瞄准线 Abbreviation of "Line of Sight".
+- **Low to Play** (or **L2P**) 微氪玩家，充值较少的玩家 Refers to players who spend a little bit of money on the game, usually means only Blessing of the Welkin Moon, Battle Pass Gnostic Hymn, and sometimes on Wishes.
+- **LP** 武器「四风原典」 Abbreviation of the Catalyst weapon Lost Prayer to the Sacred Winds.
+- **LW** 渡火套，圣遗物套装「渡过烈火的贤人」 Abbreviation of the Artifact set Lavawalker.
 
 ## M
 - **Main** (plural **Mains**) (''noun'') A character that a player chooses to primarily use; (''noun'') A player who chooses to primarily use a particular character; (''verb'') The action of choosing to primarily use a character.
