@@ -155,68 +155,68 @@
 - **MHY** 米哈游 Abbreviation of miHoYo, the developers of ''Genshin Impact''.
 - **Mob** “可移动对象”的简称，通常指敌人 Shortened form of "Mobile object". Usually refers to enemies.
 - **Mono(-element)** 纯色队 A team where all four characters in the team share the same element. Alternatively, an Anemo character with a talent that shares Elemental DMG Bonuses or a 4-Piece Viridescent Venerer may take the fourth slot.
-- **Morgana** 莫甘娜 A team composition comprised of Mona, Ganyu, Diona, and Venti.
-- **Motion Value** (or **MV**) The percentage of a character's stats dealt using an attack (usually found in the attribute scaling section on character Talents#Combat Talents|talent pages). Motion Value per second (or **MV/s**) is often used to help calculate character #D|DPS.
-- **Moveset** Refers collectively to a character's Combat Talents.
-- **Multi** (plural **Multis/Multies**, also "Multipull", "10 Pull", "10×", etc.) Colloquial term for doing 10 Wishes at once, by spending 10 Intertwined Fates, 10 Acquaint Fates or 1,600 Primogems, as opposed to "#S|Singles" which are a single Wish at a time.
+- **Morgana** 莫甘娜，由莫娜、甘雨、迪奥娜、温迪组成的队伍 A team composition comprised of Mona, Ganyu, Diona, and Venti.
+- **Motion Value** (or **MV**) 倍率 The percentage of a character's stats dealt using an attack (usually found in the attribute scaling section on talent pages). Motion Value per second (or **MV/s**) is often used to help calculate character DPS.
+- **Moveset** 角色的全部战斗天赋 Refers collectively to a character's Combat Talents.
+- **Multi** (plural **Multis/Multies**, also "Multipull", "10 Pull", "10×", etc.) 十连抽 Colloquial term for doing 10 Wishes at once, by spending 10 Intertwined Fates, 10 Acquaint Fates or 1,600 Primogems, as opposed to "Singles" which are a single Wish at a time.
 
 ## N
-- **N1**, **N2**, etc. The number of Normal Attacks done in a sequence or attack string.
-- **N1C**, **N3C**, **N1CD**, **N1CJ**,**N1CJP**, etc. Refers to a specific attack sequence or #C|animation cancel that can be used by a non-bow character. "N#" specifies the number of Normal Attacks, "C" represents a Charged Attack, and "D" represents a Dash. "JP" represents a Jump followed by a Plunging Attack and is usually reserved for Xiao.
-- **NA** Abbreviation of "Normal Attack".
-- **National Team** (or **National**) A team composition comprised primarily of Xiangling, Xingqiu, and Bennett. Some variations of this team use Chongyun, Sucrose, Kazuha, Kaeya, or Raiden Shogun in the fourth slot.
-- **Nerf** A character, weapon or item having its effectiveness at a task reduced due to a change from the developers.
+- **N1**, **N2**, etc. 普通攻击第一段，第二段，以此类推 The number of Normal Attacks done in a sequence or attack string.
+- **N1C**, **N3C**, **N1CD**, **N1CJ**,**N1CJP**, etc. 非弓箭角色使用重击、冲刺、跳跃打断后摇。例如“N3C”指普通攻击第三段后重击，即中文社区中的“3AZ” Refers to a specific attack sequence or animation cancel that can be used by a non-bow character. "N#" specifies the number of Normal Attacks, "C" represents a Charged Attack, and "D" represents a Dash. "JP" represents a Jump followed by a Plunging Attack and is usually reserved for Xiao.
+- **NA** 平A，普攻，普通攻击 Abbreviation of "Normal Attack".
+- **National Team** (or **National**) 国家队，以香菱、行秋、班尼特为基础的队伍，第四人通常使用重云、砂糖、枫原万叶、凯亚、雷电将军 A team composition comprised primarily of Xiangling, Xingqiu, and Bennett. Some variations of this team use Chongyun, Sucrose, Kazuha, Kaeya, or Raiden Shogun in the fourth slot.
+- **Nerf** 角色、武器被开发者修改而削弱 A character, weapon or item having its effectiveness at a task reduced due to a change from the developers.
 - **NO** Abbreviation of the Artifact set Noblesse Oblige.
-- **NPC** Abbreviation of "NPC|Non-player character" or "Non-playable character".
-- **Nuke** Refers to dealing a large amount of damage in a short time.
-- **Nuker** - Refers to a character that deals a large amount of damage in a short time.
+- **NPC** 非玩家角色 Abbreviation of "Non-player character" or "Non-playable character".
+- **Nuke** 核爆，猴戏，短时间内造成高额伤害 Refers to dealing a large amount of damage in a short time.
+- **Nuker** 打出核爆的角色 Refers to a character that deals a large amount of damage in a short time.
 
 ## O
-- **Off-field Character** Refers to characters that are in the party but not on the field.
-- **Off-field DPS** Refers to characters that deal damage while off-field.
-- **Off-piece** An artifact that does not match the Artifact Set in use, but is still equipped due to it having better affixes than the previous counterpart, namely because the minimum requirement for the preferred artifact set bonus has already been fulfilled.
-- **OHC** Abbreviation of the Artifact set Ocean-Hued Clam.
-- **OL** Abbreviation of the Overloaded Elemental Reaction.
-- **Overcap** The state of the Original Resin counter exceeding the natural recharge limit.
-- **Overvape** A portmanteau of the reactions Overloaded and Vaporize referring to the triggering of both reactions simultaneously by applying Pyro on a target affected by both a Hydro and an Electro aura (Electro-Charged). Can also refer to a team composition that uses this combination of reactions to deal damage such as Raiden #N|National (Raiden Shogun, Xiangling, Xingqiu, and Bennett).
-- **Overworld** The {{w|overworld}} includes all areas accessible via the map, including Teyvat, the Serenitea Pot, and the Golden Apple Archipelago.
+- **Off-field Character** 后台角色 Refers to characters that are in the party but not on the field.
+- **Off-field DPS** 脱手C，使用脱手技能在后台打出伤害的角色 Refers to characters that deal damage while off-field.
+- **Off-piece** 圣遗物散件，五个部位中不属于四件套的一件圣遗物 An artifact that does not match the Artifact Set in use, but is still equipped due to it having better affixes than the previous counterpart, namely because the minimum requirement for the preferred artifact set bonus has already been fulfilled.
+- **OHC** 海染套，圣遗物套装「海染砗磲」 Abbreviation of the Artifact set Ocean-Hued Clam.
+- **OL** 超载反应 Abbreviation of the Overloaded Elemental Reaction.
+- **Overcap** 原粹树脂满了 The state of the Original Resin counter exceeding the natural recharge limit.
+- **Overvape** 水雷共存下使用火系同时打出超载和蒸发 A portmanteau of the reactions Overloaded and Vaporize referring to the triggering of both reactions simultaneously by applying Pyro on a target affected by both a Hydro and an Electro aura (Electro-Charged). Can also refer to a team composition that uses this combination of reactions to deal damage such as Raiden National (Raiden Shogun, Xiangling, Xingqiu, and Bennett).
+- **Overworld** 大世界，即使用地图可访问的全部区域，与副本相对。 The overworld includes all areas accessible via the map, including Teyvat, the Serenitea Pot, and the Golden Apple Archipelago.
 
 ## P
-- **Pay to Play** (or **P2P**) Refers to players who spend a lot of money on the game, usually means getting multiple Constellations for Characters and Weapons#Refining|Refinements for Weapons through Wishes, buying the Bundles in the Gift Shop, and spending Primogems on Original Resin Replenishes.
-- **Pay to Win** (or **P2W**) The idea of a game where the player can only achieve significant success by spending money. Typically used derogatorily to comment on a game's monetization system(s).
-- **PC** Abbreviation of "Player character" or Playable Character.
-- **PF** Abbreviation of the Artifact set Pale Flame.
-- **PG** Shortened form of Primogems.
-- **Pity** The counter for Wishes that guarantees a 4-Star or 5-Star after a given amount. See #S|soft pity and #H|hard pity.
-- **PJWS** Abbreviation of the Polearm weapon Primordial Jade Winged-Spear.
-- **Player versus Environment** or **PvE** (also **Player versus Mobs/Monsters** or **PvM**) Gameplay that involves the player(s) competing against computer-controlled opponents (AI); characteristic of single player games, or multiplayer games wherein players cannot directly attack each other (such as ''Genshin Impact''). This is contrasted with "Player versus Player" (or PvP), in which human players compete against each other, often in a combat-oriented setting.
-- **Plume** Shortened form for the Plume of Death Artifact piece.
-- **PMA** Abbreviation of the Normal Boss Perpetual Mechanical Array.
-- **Primos** Shortened form of Primogems.
-- **Proc** To activate or trigger an effect such as a buff or debuff.
-- **Prototypes** Refers to the Northlander Billets used in forging weapons, since before Version 1.3, they were called Northlander Prototypes.
-- **Pulls** Wishing on a Wish or the number of Wishes saved up in Primogems, Acquaint Fates, or Intertwined Fates.
+- **Pay to Play** (or **P2P**) 大量充值的玩家 Refers to players who spend a lot of money on the game, usually means getting multiple Constellations for Characters and Refinements for Weapons through Wishes, buying the Bundles in the Gift Shop, and spending Primogems on Original Resin Replenishes.
+- **Pay to Win** (or **P2W**) 只有通过充值才能获胜的理念，通常用于评论一款游戏的充值系统 The idea of a game where the player can only achieve significant success by spending money. Typically used derogatorily to comment on a game's monetization system(s).
+- **PC** 自机角色，可玩角色 Abbreviation of "Player character" or Playable Character.
+- **PF** 苍火套，圣遗物套装「苍白之火」 Abbreviation of the Artifact set Pale Flame.
+- **PG** 原石 Shortened form of Primogems.
+- **Pity** 保底 The counter for Wishes that guarantees a 4-Star or 5-Star after a given amount. See soft pity and hard pity.
+- **PJWS** 鸟枪，绿枪，武器「和璞鸢」 Abbreviation of the Polearm weapon Primordial Jade Winged-Spear.
+- **Player versus Environment** or **PvE** (also **Player versus Mobs/Monsters** or **PvM**) 玩家对抗环境，指玩家与电脑控制的敌人对战 Gameplay that involves the player(s) competing against computer-controlled opponents (AI); characteristic of single player games, or multiplayer games wherein players cannot directly attack each other (such as ''Genshin Impact''). This is contrasted with "Player versus Player" (or PvP), in which human players compete against each other, often in a combat-oriented setting.
+- **Plume** 羽，圣遗物部位「死之羽」 Shortened form for the Plume of Death Artifact piece.
+- **PMA** 无相铁，敌人「恒常机关阵列」 Abbreviation of the Normal Boss Perpetual Mechanical Array.
+- **Primos** 原石 Shortened form of Primogems.
+- **Proc** 触发Buff或Debuff To activate or trigger an effect such as a buff or debuff.
+- **Prototypes** 武器原胚 Refers to the Northlander Billets used in forging weapons, since before Version 1.3, they were called Northlander Prototypes.
+- **Pulls** 抽卡，祈愿，或指通过原石、相遇之缘、纠缠之缘存有的待抽卡数 Wishing on a Wish or the number of Wishes saved up in Primogems, Acquaint Fates, or Intertwined Fates.
 
 ## Q
-- **Q** Refers to Elemental Bursts, after its default key binding on PC.
-- **Quickswap** Refers to a team composition or playstyle in which each character only stays on-field for a brief period of time, usually just to cast Elemental Skills and Elemental Bursts or to enable the ATK boost from the weapon Thrilling Tales of Dragon Slayers before switching to the next character.
+- **Q** 大招，元素爆发 Refers to Elemental Bursts, after its default key binding on PC.
+- **Quickswap** 速切 Refers to a team composition or playstyle in which each character only stays on-field for a brief period of time, usually just to cast Elemental Skills and Elemental Bursts or to enable the ATK boost from the weapon Thrilling Tales of Dragon Slayers before switching to the next character.
 
 ## R
-- **R1**, **R2**, **R3**, **R4**, **R5** (or **Refines**) The Weapons#Refining|Refinement rank of a Weapon.
-- **RB** Abbreviation of the Artifact set Retracing Bolide.
-- **Reduce CD** Short form of "Cooldown#CD Reduction|Cooldown Reduction" attribute.
-- **Rep** Shortened form of Reputation.
-- **Reroll** Creating new accounts in hopes of getting the desired 5-star Character through Wishes.
-- **Rerun** When a Character Wish or Event returns after its first run.
-- **RES** Abbreviation of "Resistance" attribute.
-- **Resin Refresh** (also **Refill**) Replenishing Original Resin using Primogems.
-- **Resistance Shred** (or **RES Shred**) Decreasing the Resistance/Physical|Physical Resistance and/or Resistance#Elemental Resistances|Elemental Resistance of enemies. See Resistance#Decreasing Enemy Resistance|Decreasing Enemy Resistance.
-- **Reverse Vape** or **Reverse Melt** The 1.5× multiplier version of the Vaporize reaction (applying Pyro on Hydro) or the Melt reaction (applying Cryo on Pyro) respectively, as opposed to #F|Forward Vape or Forward Melt.
-- **RMT** "Real Money Transaction", i.e. the act of exchanging real life currency for in-game ones (e.g. US$ for Genesis Crystals).
-- **RNG** Abbreviation of "Random Number Generator". In the community, RNG is synonymous with "luck". Good RNG equates to good luck and vice versa.
-- **Rolls** Wishing on a Wish or the number of Wishes saved up in Primogems, Acquaint Fates, or Intertwined Fates. Also refers to obtaining Artifacts from clearing Domains, defeating Bosses, etc. or fully enhancing an Artifact in hope of getting good Glossary#S|substats.
-- **Rosa** Abbreviation for Rosaria.
-- **Rotation** A specific usage order of multiple characters' abilities (Normal Attacks, Elemental Skills, and Elemental Bursts) in a team. Once all the relevant abilities have been used and are off of cooldown again, a rotation may repeat.
+- **R1**, **R2**, **R3**, **R4**, **R5** (or **Refines**) 武器的精炼等级 The Refinement rank of a Weapon.
+- **RB** 圣遗物套装「逆飞的流星」 Abbreviation of the Artifact set Retracing Bolide.
+- **Reduce CD** 冷却缩减 Short form of "Cooldown Reduction" attribute.
+- **Rep** 声望 Shortened form of Reputation.
+- **Reroll** 创建多个账号以试图获取想要的5星角色 Creating new accounts in hopes of getting the desired 5-star Character through Wishes.
+- **Rerun** （卡池或活动）复刻 When a Character Wish or Event returns after its first run.
+- **RES** 抗性 Abbreviation of "Resistance" attribute.
+- **Resin Refresh** (also **Refill**) 使用原石购买原粹树脂 Replenishing Original Resin using Primogems.
+- **Resistance Shred** (or **RES Shred**) 减抗，降低敌人的物理或某元素抗性 Decreasing the Physical Resistance and/or Elemental Resistance of enemies. See Decreasing Enemy Resistance.
+- **Reverse Vape** or **Reverse Melt** 反蒸发/反融化，指火系触发的蒸发或冰系触发的融化，可打出2倍伤害 The 1.5× multiplier version of the Vaporize reaction (applying Pyro on Hydro) or the Melt reaction (applying Cryo on Pyro) respectively, as opposed to Forward Vape or Forward Melt.
+- **RMT** 现实货币交易 "Real Money Transaction", i.e. the act of exchanging real life currency for in-game ones (e.g. US$ for Genesis Crystals).
+- **RNG** 随机数生成。在游戏社区与“运气”同义 Abbreviation of "Random Number Generator". In the community, RNG is synonymous with "luck". Good RNG equates to good luck and vice versa.
+- **Rolls** 抽卡，祈愿，或指通过原石、相遇之缘、纠缠之缘存有的待抽卡数，或者指强化圣遗物以获取更好的副词条 Wishing on a Wish or the number of Wishes saved up in Primogems, Acquaint Fates, or Intertwined Fates. Also refers to obtaining Artifacts from clearing Domains, defeating Bosses, etc. or fully enhancing an Artifact in hope of getting good substats.
+- **Rosa** 角色「罗莎莉亚」 Abbreviation for Rosaria.
+- **Rotation** 循环轴，指战斗中周期性使用各角色技能的一套方式 A specific usage order of multiple characters' abilities (Normal Attacks, Elemental Skills, and Elemental Bursts) in a team. Once all the relevant abilities have been used and are off of cooldown again, a rotation may repeat.
 
 ## S
 - **Sands** Shortened form for the Sands of Eon Artifact piece.
