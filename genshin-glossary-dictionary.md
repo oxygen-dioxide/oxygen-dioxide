@@ -219,72 +219,72 @@
 - **Rotation** 循环轴，指战斗中周期性使用各角色技能的一套方式 A specific usage order of multiple characters' abilities (Normal Attacks, Elemental Skills, and Elemental Bursts) in a team. Once all the relevant abilities have been used and are off of cooldown again, a rotation may repeat.
 
 ## S
-- **Sands** Shortened form for the Sands of Eon Artifact piece.
-- **Scara** Shortened form of Scaramouche.
-- **Selfish Carry** Refers to DPS characters that need to stay on the field for the full duration of a skill to deal the most damage. Swapping out usually prematurely ends the skill.
-- **Server reset** A specific server time which marks the beginning of a new day, refreshing most of the timed content such as daily login bonuses, daily commissions and events.
-- **Set** Shortened form for Artifact Set.
-- **Shieldbot/Shielder** Refers to characters built to maximize their shield's damage absorption at the expense of their overall damage or other support abilities. Full HP Zhongli and full DEF Noelle are a few such builds.
-- **Shinra Tensei** A team consisting of Kamisato Ayaka|Ayaka, Kaedehara Kazuha|Kazuha, Sangonomiya Kokomi|Kokomi, and Rosaria. A variation that replaces Rosaria with Shenhe also exists.
-- **Shotgun** Using Bow characters' Charged Attacks at close range to enemies.
-- **Singles** Using a single Acquaint Fate, Intertwined Fate, or 160 Primogems on a Wish.
-- **Skill** The Elemental Skill of Characters.
-- **Snapshot** Some long lasting/deployable abilities are based on the character's stats at the time of casting. This allows some buffs that are active at the time of casting to effectively last for the entire duration of the ability even if the buff itself runs out. See Snapshotting.
-- **SoBP** Abbreviation of the Claymore weapon Song of Broken Pines.
-- **Soft Pity** A theory that suggests an increased drop rate before reaching the guaranteed "hard" pity for a 5-star, starting at around 75 Wishes on the Wanderlust Invocation and Wishes#Character Event Wish|Character Event Wish, or around 65 Wishes on the Wishes#Weapon Event Wish|Weapon Event Wish.
-- **SoH** -  Abbreviation of the Polearms|Polearm weapon Staff of Homa
-- **SoT7** or **SoTS** Acronym referring to Statues of The Seven.
-- **Soup** A team consisting of a Hydro, Electro, Pyro, and Anemo character which triggers Electro-Charged, Vaporize, Overloaded, and Swirl reactions simultaneously to deal damage.
-- **SR/Shime/Shimi** Abbreviation of the Artifact set Shimenawa's Reminiscence.
-- **SS** Abbreviation of the Claymore weapon Serpent Spine. Not to be confused with screenshot.
-- **Stance** The current character's attack position. Stance will affect how Normal, Charged, and Plunge attacks are performed. Most characters only have one stance, but some, like Tartaglia, have different stances that change their attack pattern.
-- **Sub DPS** A generic term that tends to refer to characters in the team that deal a significant amount of damage but aren't the main DPS.
-- **Substat** (or **Subs**) The secondary stat(s) for Weapons and Artifacts.
-- **Summons** Wishing on a Wish or the number of Wishes saved up in Primogems, Acquaint Fates, or Intertwined Fates.
-- **Sunfire** Combining both Jean's Dandelion Breeze and Bennett's Fantastic Voyage to constantly Swirl Pyro from the on-field character onto enemies.
+- **Sands** 沙，圣遗物部位「时之沙」 Shortened form for the Sands of Eon Artifact piece.
+- **Scara** 剧情人物「散兵」 Shortened form of Scaramouche.
+- **Selfish Carry** 站场主C Refers to DPS characters that need to stay on the field for the full duration of a skill to deal the most damage. Swapping out usually prematurely ends the skill.
+- **Server reset** 服务器每日重置时间，为当地时间04:00 A specific server time which marks the beginning of a new day, refreshing most of the timed content such as daily login bonuses, daily commissions and events.
+- **Set** 圣遗物套装 Shortened form for Artifact Set.
+- **Shieldbot/Shielder** 专门配装的盾辅，例如血牛钟离 Refers to characters built to maximize their shield's damage absorption at the expense of their overall damage or other support abilities. Full HP Zhongli and full DEF Noelle are a few such builds.
+- **Shinra Tensei** 神罗天征，由神里绫华、罗莎莉亚、枫原万叶、珊瑚宫心海组成的队伍。有时也指神鹤万心（将罗莎莉亚换成申鹤） A team consisting of Ayaka, Kazuha, Kokomi, and Rosaria. A variation that replaces Rosaria with Shenhe also exists.
+- **Shotgun** 物理速射，以最高频率使用弓箭角色的重击，而不蓄满 Using Bow characters' Charged Attacks at close range to enemies.
+- **Singles** 单抽 Using a single Acquaint Fate, Intertwined Fate, or 160 Primogems on a Wish.
+- **Skill** E技能，元素战技 The Elemental Skill of Characters.
+- **Snapshot** 锁面板，快照机制，部分持续性技能的效果按照技能开始时的面板计算，而不是实时面板 Some long lasting/deployable abilities are based on the character's stats at the time of casting. This allows some buffs that are active at the time of casting to effectively last for the entire duration of the ability even if the buff itself runs out. See Snapshotting.
+- **SoBP** 武器「松籁响起之时」 Abbreviation of the Claymore weapon Song of Broken Pines.
+- **Soft Pity** 保底机制中，在达到最终保底抽数前，获得五星物品的概率就会增加。对于普池和角色池是75抽左右，对于武器池是65抽左右 A theory that suggests an increased drop rate before reaching the guaranteed "hard" pity for a 5-star, starting at around 75 Wishes on the Wanderlust Invocation and Character Event Wish, or around 65 Wishes on the Weapon Event Wish.
+- **SoH** 武器「护摩之杖」 Abbreviation of the Polearm weapon Staff of Homa
+- **SoT7** or **SoTS** 七天神像 Acronym referring to Statues of The Seven.
+- **Soup** 由水、雷、火、风组成的队伍 A team consisting of a Hydro, Electro, Pyro, and Anemo character which triggers Electro-Charged, Vaporize, Overloaded, and Swirl reactions simultaneously to deal damage.
+- **SR/Shime/Shimi** 追忆套，圣遗物套装「追忆之注连」 Abbreviation of the Artifact set Shimenawa's Reminiscence.
+- **SS** 武器「螭骨剑」 Abbreviation of the Claymore weapon Serpent Spine. Not to be confused with screenshot.
+- **Stance** 攻击状态，例如达达利亚的远程和近战两种模式 The current character's attack position. Stance will affect how Normal, Charged, and Plunge attacks are performed. Most characters only have one stance, but some, like Tartaglia, have different stances that change their attack pattern.
+- **Sub DPS** 副C A generic term that tends to refer to characters in the team that deal a significant amount of damage but aren't the main DPS.
+- **Substat** (or **Subs**) 武器和圣遗物的副词条 The secondary stat(s) for Weapons and Artifacts.
+- **Summons** 通过原石、相遇之缘、纠缠之缘存有的待抽卡数 Wishing on a Wish or the number of Wishes saved up in Primogems, Acquaint Fates, or Intertwined Fates.
+- **Sunfire** 用琴和班尼特的大招持续从自身上扩散火系 Combining both Jean's Dandelion Breeze and Bennett's Fantastic Voyage to constantly Swirl Pyro from the on-field character onto enemies.
 
 ## T
-- **Talent Books** The Talent Level-Up Materials that resemble books, mainly obtained from challenging Domains#Domains of Mastery|Domains of Mastery.
-- **Talent Priority** A recommended order in which one should raise the level of a character's Combat Talents.
-- **Taser** A team composition that focuses on using the Electro-Charged reaction. One popular Taser team composition includes Sucrose, Fischl, Beidou, and Xingqiu. Childe Taser (sometimes called Childe #F|Fireworks) involves Childe, Fischl, and Beidou.
-- **TF**/**TFury** Abbreviation of the Artifact set Thundering Fury.
-- **Time-gated** Refers to content or features that only become available after set time intervals. Examples include :Category:Daily Quests|daily quests such as Tatara Tales, and parts of Events that become unlocked after a certain number of hours or days. The term is also used to refer to things that replenish over time, such as Original Resin.
-- **Timepiece** Another term for the Sands of Eon Artifact piece.
-- **ToM**/**ToTM** Abbreviation of the Artifact set Tenacity of the Millelith.
-- **TP** Abbreviation of either Teleport Waypoints|teleport or the Bow weapon Thundering Pulse.
-- **Trigger** The second element applied in an Elemental Reaction.
-- **Triple Crowning** Spending three Crown of Insight|Crowns of Insight to level each of a character's combat talents (Normal Attack, Elemental Skill, and Elemental Burst) to their final base rank (Lv. 10, not including levels from Constellations).
-- **TS** Abbreviation of the Artifact set Thundersoother.
-- **TTDS**/**TToDS** Abbreviation of the Catalyst weapon Thrilling Tales of Dragon Slayers.
+- **Talent Books** 天赋书，天赋培养素材 The Talent Level-Up Materials that resemble books, mainly obtained from challenging Domains of Mastery.
+- **Talent Priority** 天赋优先级 A recommended order in which one should raise the level of a character's Combat Talents.
+- **Taser** 武装队 A team composition that focuses on using the Electro-Charged reaction. One popular Taser team composition includes Sucrose, Fischl, Beidou, and Xingqiu. Childe Taser (sometimes called Childe Fireworks) involves Childe, Fischl, and Beidou.
+- **TF**/**TFury** 如雷套，圣遗物套装「如雷的盛怒」 Abbreviation of the Artifact set Thundering Fury.
+- **Time-gated** 断章，时间门槛，部分任务之间要等待现实时间数天才能完成。有时也指按现实时间恢复的素材，例如原粹树脂 Refers to content or features that only become available after set time intervals. Examples include daily quests such as Tatara Tales, and parts of Events that become unlocked after a certain number of hours or days. The term is also used to refer to things that replenish over time, such as Original Resin.
+- **Timepiece** 沙，圣遗物部位「时之沙」 Another term for the Sands of Eon Artifact piece.
+- **ToM**/**ToTM** 千岩套，圣遗物套装「千岩牢固」 Abbreviation of the Artifact set Tenacity of the Millelith.
+- **TP** 传送，或者指武器「飞雷之弦振」 Abbreviation of either teleport or the Bow weapon Thundering Pulse.
+- **Trigger** 后手元素，作为元素反应的触发者 The second element applied in an Elemental Reaction.
+- **Triple Crowning** 三皇冠，将角色的全部3个战斗天赋升到满级10级 Spending three Crown of Insight|Crowns of Insight to level each of a character's combat talents (Normal Attack, Elemental Skill, and Elemental Burst) to their final base rank (Lv. 10, not including levels from Constellations).
+- **TS** 平雷套，圣遗物套装「平息鸣雷的尊者」 Abbreviation of the Artifact set Thundersoother.
+- **TTDS**/**TToDS** 武器「讨龙英杰谭」 Abbreviation of the Catalyst weapon Thrilling Tales of Dragon Slayers.
 
 ## U
-- **Ultimate** (or **Ult**) The Elemental Burst of Characters.
-- **Unit** Refers to a Playable Characters|playable character.
-- **Uptime** The period of a cooldown during which an Elemental Skill, Elemental Burst, or other effect remains active. "100% uptime" refers to the maximal, prolonged use of a Skill or Burst due to Cooldown#CD Reduction|reduced cooldown (decreasing ''downtime'') or an innate cooldown being equal to or shorter than the effect duration. Compare with #D|downtime.
-- **Utility Support** (or **Supp**) Tends to refer to the characters that can support the team with crowd control, buff, shield, damage reduction, or healing abilities.
+- **Ultimate** (or **Ult**) 大招，元素爆发 The Elemental Burst of Characters.
+- **Unit** 单个自机角色 Refers to a playable character.
+- **Uptime** 技能或效果的有效时间，与空窗期相对 The period of a cooldown during which an Elemental Skill, Elemental Burst, or other effect remains active. "100% uptime" refers to the maximal, prolonged use of a Skill or Burst due to reduced cooldown (decreasing ''downtime'') or an innate cooldown being equal to or shorter than the effect duration. Compare with downtime.
+- **Utility Support** (or **Supp**) 辅助（包括群控、Buff、护盾、伤害减免、治疗等） Tends to refer to the characters that can support the team with crowd control, buff, shield, damage reduction, or healing abilities.
 
 ## V
-- **V1.1**, **V1.2**, etc. Referring to the game's Version 1.1, 1.2, ... update.
-- **VA** Abbreviation of Voice Actor.
-- **Vape** Abbreviation of the reaction Vaporize between the Hydro and Pyro elements. May also refer to team compositions that primarily utilize this reaction to deal damage.
-- **VV** Abbreviation of the Artifact set Viridescent Venerer or the Polearm Vortex Vanquisher.
+- **V1.1**, **V1.2**, etc. 游戏版本1.1，1.2等等 Referring to the game's Version 1.1, 1.2, ... update.
+- **VA** 声优，配音演员 Abbreviation of Voice Actor.
+- **Vape** 蒸发反应，或者指主打蒸发反应的队伍 Abbreviation of the reaction Vaporize between the Hydro and Pyro elements. May also refer to team compositions that primarily utilize this reaction to deal damage.
+- **VV** 风套，圣遗物套装「翠绿之影」，或者指盾枪，武器「贯虹之槊」 Abbreviation of the Artifact set Viridescent Venerer or the Polearm Vortex Vanquisher.
 
 ## W
-- **Web Event** Events that do not involve normal gameplay or do not take place within the game, and is usually accessed through a web browser.
-- **Weeklies** The Weekly Bosses, Bounties, or Reputation#Weekly Requests|Requests, whose rewards can only be claimed once a week.
-- **Welkin** Shortened form of Blessing of the Welkin Moon.
-- **WGS** Abbreviation of the Claymore weapon Wolf's Gravestone.
-- **Whale** Players who spend large amounts of money on the game.
-- **WL** Abbreviation of World Level. WL0, WL1,... WL8 are used to denote a the World Level of a player's world.
-- **WT** Abbreviation of the Artifact set Wanderer's Troupe.
+- **Web Event** 网页活动 Events that do not involve normal gameplay or do not take place within the game, and is usually accessed through a web browser.
+- **Weeklies** 周常，包括周本Boss、声望任务 The Weekly Bosses, Bounties, or Reputation#Weekly Requests|Requests, whose rewards can only be claimed once a week.
+- **Welkin** 小月卡，空月祝福 Shortened form of Blessing of the Welkin Moon.
+- **WGS** 狼末，武器「狼的末路」 Abbreviation of the Claymore weapon Wolf's Gravestone.
+- **Whale** 氪佬，大量充值的玩家 Players who spend large amounts of money on the game.
+- **WL** 世界等级，例如WL0, WL1,... WL8 Abbreviation of World Level. WL0, WL1,... WL8 are used to denote a the World Level of a player's world.
+- **WT** 乐团套，圣遗物套装「流浪大地的乐团」 Abbreviation of the Artifact set Wanderer's Troupe.
 
 ## X
-- **XL** Abbreviation of Xiangling.
-- **XQ** Abbreviation of Xingqiu.
-- **XY** Abbreviation of Xinyan.
+- **XL** 角色「香菱」 Abbreviation of Xiangling.
+- **XQ** 角色「行秋」 Abbreviation of Xingqiu.
+- **XY** 角色「辛焱」 Abbreviation of Xinyan.
 
 ## Y
-- **Yoi** Abbreviation of Yoimiya.
+- **Yoi** 角色「宵宫」 Abbreviation of Yoimiya.
 
 ## Z
-- **ZL** Abbreviation of Zhongli.
+- **ZL** 角色「钟离」 Abbreviation of Zhongli.
