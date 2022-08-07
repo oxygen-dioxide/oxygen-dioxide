@@ -117,7 +117,7 @@
 
 ## H
 - **Hard Pity** 卡着保底最后一抽才抽中想要的物品（角色池90抽，武器池80抽） The phenomenon of having a guaranteed 5 Star on the 90th Wish on the Wanderlust Invocation and Character Event Wish, or on the 80th Wish on the Weapon Event Wish.
-- **Hat** or **Headpiece** Another term for the Circlet of Logos Artifact piece.
+- **Hat** or **Headpiece** 头，圣遗物部位「理之冠」 Another term for the Circlet of Logos Artifact piece.
 - **Healer** 奶妈，治疗角色 Refers to a character whose talents can regenerate HP.
 - **Hitbox** 攻击的碰撞箱，该空间范围内的目标会被判定为命中 The area that, when an attack successfully crosses, deals damage to enemies and/or players as well as apply status effects.
 - **Hitlag** 卡帧 Additional frozen frames added to a character's attack animation when melee attacks hit an enemy or object. The character is momentarily paused for a few frames depending on the type of enemy or object to give the player the impression of weight behind their attacks.
@@ -166,10 +166,10 @@
 - **NA** 平A，普攻，普通攻击 Abbreviation of "Normal Attack".
 - **National Team** (or **National**) 国家队，以香菱、行秋、班尼特为基础的队伍，第四人通常使用重云、砂糖、枫原万叶、凯亚、雷电将军 A team composition comprised primarily of Xiangling, Xingqiu, and Bennett. Some variations of this team use Chongyun, Sucrose, Kazuha, Kaeya, or Raiden Shogun in the fourth slot.
 - **Nerf** 角色、武器被开发者修改而削弱 A character, weapon or item having its effectiveness at a task reduced due to a change from the developers.
-- **NO** Abbreviation of the Artifact set Noblesse Oblige.
+- **NO** 宗室套，圣遗物套装「昔日宗室之仪」 Abbreviation of the Artifact set Noblesse Oblige.
 - **NPC** 非玩家角色 Abbreviation of "Non-player character" or "Non-playable character".
 - **Nuke** 核爆，猴戏，短时间内造成高额伤害 Refers to dealing a large amount of damage in a short time.
-- **Nuker** 打出核爆的角色 Refers to a character that deals a large amount of damage in a short time.
+- **Nuker** 用来打出核爆的角色 Refers to a character that deals a large amount of damage in a short time.
 
 ## O
 - **Off-field Character** 后台角色 Refers to characters that are in the party but not on the field.
