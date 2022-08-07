@@ -225,7 +225,7 @@
 - **Server reset** 服务器每日重置时间，为当地时间04:00 A specific server time which marks the beginning of a new day, refreshing most of the timed content such as daily login bonuses, daily commissions and events.
 - **Set** 圣遗物套装 Shortened form for Artifact Set.
 - **Shieldbot/Shielder** 专门配装的盾辅，例如血牛钟离 Refers to characters built to maximize their shield's damage absorption at the expense of their overall damage or other support abilities. Full HP Zhongli and full DEF Noelle are a few such builds.
-- **Shinra Tensei** 神罗天征，由神里绫华、罗莎莉亚、枫原万叶、珊瑚宫心海组成的队伍。有时也指神鹤万心（将罗莎莉亚换成申鹤） A team consisting of Ayaka, Kazuha, Kokomi, and Rosaria. A variation that replaces Rosaria with Shenhe also exists.
+- **Shinra Tensei** 永冻队，神罗天征，由神里绫华、罗莎莉亚、枫原万叶、珊瑚宫心海组成的队伍。有时也指神鹤万心（将罗莎莉亚换成申鹤） A team consisting of Ayaka, Kazuha, Kokomi, and Rosaria. A variation that replaces Rosaria with Shenhe also exists.
 - **Shotgun** 物理速射，以最高频率使用弓箭角色的重击，而不蓄满 Using Bow characters' Charged Attacks at close range to enemies.
 - **Singles** 单抽 Using a single Acquaint Fate, Intertwined Fate, or 160 Primogems on a Wish.
 - **Skill** E技能，元素战技 The Elemental Skill of Characters.
