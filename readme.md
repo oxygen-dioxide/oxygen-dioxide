@@ -25,6 +25,7 @@ Here are voicebanks mirrored by me on Github. No changes are made. All these voi
 |[Milk ENG](https://github.com/oxygen-dioxide/milk-eng)|English (Arpasing)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|
 |[Milk JPN](https://github.com/oxygen-dioxide/milk-jpn)|Japanese (VCV)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|
 |[Scottpoid](https://github.com/oxygen-dioxide/scottpoid-jpn)|Japanese (VCV)|UTAU|[Scott](https://nonclione.neocities.org/utau/)|
+|[Tsukiyama Tomo JPN ReBirth](https://github.com/oxygen-dioxide/tsukiyama-tomo-jpn-rebirth)|Japanese (VCV)|UTAU|[Huro Nomoe](https://huronomoe.ru/)|
 |[Viki Hopper JPN](https://github.com/oxygen-dioxide/viki-hopper-jpn)|Japanese (CVVC)|UTAU|[Seiun](https://www.seiun.co/)|
 |[Xihelv (曦和律) CHN](https://github.com/oxygen-dioxide/Xihelv-Chinese-CVVC)|Chinese (CVVC)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|
 |[Xihelv (曦和律) JPN](https://github.com/oxygen-dioxide/Xihelv-Japanese-VCV)|Japanese (VCV)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|
