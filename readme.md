@@ -22,6 +22,7 @@ Here are voicebanks mirrored by me on Github. No changes are made. All these voi
 |[Hitsuboku Kumi (筆墨クミ) CHN](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror)|Chinese (CVVC Voicemith list)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
 |[Hitsuboku Kumi (筆墨クミ) ENG](https://github.com/oxygen-dioxide/hitsuboku-kumi-eng)|English (Cz VCCV)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
 |[Hitsuboku Kumi (筆墨クミ) KOR](https://github.com/oxygen-dioxide/hitsuboku-kumi-kor-mirror)|Korean|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
+|[Kumo Frost](https://github.com/oxygen-dioxide/kumo-frost-jpn)|Japanese (VCV)|UTAU|[Kyasurin](https://kyasurinutau.carrd.co)|×|
 |[Milk ENG](https://github.com/oxygen-dioxide/milk-eng)|English (Arpasing)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|√|
 |[Milk JPN](https://github.com/oxygen-dioxide/milk-jpn)|Japanese (VCV)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|√|
 |[Scottpoid](https://github.com/oxygen-dioxide/scottpoid-jpn)|Japanese (VCV)|UTAU|[Scott](https://nonclione.neocities.org/utau/)|√|
