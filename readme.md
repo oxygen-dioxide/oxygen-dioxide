@@ -26,7 +26,9 @@ Here are voicebanks mirrored by me on Github. No changes are made. All these voi
 |[Kumo Frost](https://github.com/oxygen-dioxide/kumo-frost-jpn)|Japanese (VCV)|UTAU|[Kyasurin](https://kyasurinutau.carrd.co)|×|
 |[Milk ENG](https://github.com/oxygen-dioxide/milk-eng)|English (Arpasing)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|√|
 |[Milk JPN](https://github.com/oxygen-dioxide/milk-jpn)|Japanese (VCV)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|√|
+|[Misa Mochi](https://github.com/oxygen-dioxide/misa-mochi-ja)|Japanese (VCV)|UTAU|MISAO|×|
 |[Scottpoid](https://github.com/oxygen-dioxide/scottpoid-jpn)|Japanese (VCV)|UTAU|[Scott](https://nonclione.neocities.org/utau/)|√|
+|[T-Meey All Chocolate Cookie](https://github.com/oxygen-dioxide/t-meey-ja)|Japanese (VCV)|UTAU|KrankerApfel|×|
 |[Tsukiyama Tomo JPN ReBirth](https://github.com/oxygen-dioxide/tsukiyama-tomo-jpn-rebirth)|Japanese (VCV)|UTAU|[Huro Nomoe](https://huronomoe.ru/)|√|
 |[Viki Hopper JPN](https://github.com/oxygen-dioxide/viki-hopper-jpn)|Japanese (CVVC)|UTAU|[Seiun](https://www.seiun.co/)|√|
 |[Xihelv (曦和律) CHN](https://github.com/oxygen-dioxide/Xihelv-Chinese-CVVC)|Chinese (CVVC)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|×|
