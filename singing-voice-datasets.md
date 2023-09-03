@@ -24,7 +24,7 @@ Here is a list of publicly available singing voice datasets.
 |English name|Has phoneme-level label|
 |-|-|
 |[CSD(Children's song dataset)](https://zenodo.org/record/4785016)|×|
-|[Hitsuboku Kumi](https://cubialpha.wixsite.com/kumivoice/extra)|×|
+|[Hitsune Kumi](https://cubialpha.wixsite.com/kumivoice/extra)|×|
 |[NUS SMC](https://ieeexplore.ieee.org/document/6694316)|√|
 
 ## Korean
