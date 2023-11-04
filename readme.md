@@ -9,27 +9,27 @@ Here are open source voicebanks ported by me to other platforms. All these voice
 |Name|Language|Platform|Voicer|
 |-|-|-|-|
 |[Hitsuboku Kumi (筆墨クミ) Act4](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4-vocalsharp)|Japanese (VCV)|VocalSharp|[Cubialpha](https://twitter.com/_cubialpha)|
-|[Hitsuboku Kumi (筆墨クミ) CHN](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal)|Chinese (CVVC Voicemith list)|Deepvocal|[Cubialpha](https://twitter.com/_cubialpha)|
-|[Milk JPN](https://github.com/oxygen-dioxide/milk-jpn-vocalsharp)|Japanese (VCV)|VocalSharp|[Xepheris](https://space.bilibili.com/618761702)|
+|[Hitsuboku Kumi (筆墨クミ) ZH](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal)|Chinese (CVVC Voicemith list)|Deepvocal|[Cubialpha](https://twitter.com/_cubialpha)|
+|[Milk JA](https://github.com/oxygen-dioxide/milk-jpn-vocalsharp)|Japanese (VCV)|VocalSharp|[Xepheris](https://space.bilibili.com/618761702)|
 
 ## Voicebank mirror sites
 Here are voicebanks mirrored by me on Github. No changes are made. All these voicebanks' original authors allow free re-distributing in their terms of use.
 |Name|Language|Platform|Voicer|Redistributable<br/>with edits|
 |-|-|-|-|-|
-|[ALYS-JPN](https://github.com/oxygen-dioxide/ALYS-DB-001-JPN)|Japanese (VCV)|UTAU|[Poucet](http://twitter.com/InvisiblePoucet)|√|
+|[ALYS-JA](https://github.com/oxygen-dioxide/ALYS-DB-001-JPN)|Japanese (VCV)|UTAU|[Poucet](http://twitter.com/InvisiblePoucet)|√|
 |[Gakuto Deshimaru Chi (学人デシマル χ)](https://github.com/oxygen-dioxide/gakuto-deshimaru-chi-jpn)|Japanese (CVVC)|UTAU|[UtaUtaUtau](https://github.com/UtaUtaUtau)|×|
 |[Hikari One Crystal](https://github.com/oxygen-dioxide/hikari-one-crystal-jpn)|Japanese (VCV)|UTAU|[Kyomyii](https://www.youtube.com/c/Kyomiii)|√|
 |[Hitsuboku Kumi (筆墨クミ) Act4](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4)|Japanese (VCV)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
-|[Hitsuboku Kumi (筆墨クミ) CHN](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror)|Chinese (CVVC Voicemith list)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
-|[Hitsuboku Kumi (筆墨クミ) ENG](https://github.com/oxygen-dioxide/hitsuboku-kumi-eng)|English (Cz VCCV)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
-|[Hitsuboku Kumi (筆墨クミ) KOR](https://github.com/oxygen-dioxide/hitsuboku-kumi-kor-mirror)|Korean|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
+|[Hitsuboku Kumi (筆墨クミ) ZH](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror)|Chinese (CVVC Voicemith list)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
+|[Hitsuboku Kumi (筆墨クミ) EN](https://github.com/oxygen-dioxide/hitsuboku-kumi-eng)|English (Cz VCCV)|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
+|[Hitsuboku Kumi (筆墨クミ) KO](https://github.com/oxygen-dioxide/hitsuboku-kumi-kor-mirror)|Korean|UTAU|[Cubialpha](https://twitter.com/_cubialpha)|√|
 |[Kumo Frost](https://github.com/oxygen-dioxide/kumo-frost-jpn)|Japanese (VCV)|UTAU|[Kyasurin](https://kyasurinutau.carrd.co)|×|
-|[Milk ENG](https://github.com/oxygen-dioxide/milk-eng)|English (Arpasing)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|√|
-|[Milk JPN](https://github.com/oxygen-dioxide/milk-jpn)|Japanese (VCV)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|√|
+|[Milk EN](https://github.com/oxygen-dioxide/milk-eng)|English (Arpasing)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|√|
+|[Milk JA](https://github.com/oxygen-dioxide/milk-jpn)|Japanese (VCV)|UTAU|[Xepheris](https://space.bilibili.com/618761702)|√|
 |[Misa Mochi](https://github.com/oxygen-dioxide/misa-mochi-ja)|Japanese (VCV)|UTAU|MISAO|×|
 |[Scottpoid](https://github.com/oxygen-dioxide/scottpoid-jpn)|Japanese (VCV)|UTAU|[Scott](https://nonclione.neocities.org/utau/)|√|
 |[T-Meey All Chocolate Cookie](https://github.com/oxygen-dioxide/t-meey-ja)|Japanese (VCV)|UTAU|KrankerApfel|×|
-|[Tsukiyama Tomo JPN ReBirth](https://github.com/oxygen-dioxide/tsukiyama-tomo-jpn-rebirth)|Japanese (VCV)|UTAU|[Huro Nomoe](https://huronomoe.ru/)|√|
-|[Viki Hopper JPN](https://github.com/oxygen-dioxide/viki-hopper-jpn)|Japanese (CVVC)|UTAU|[Seiun](https://www.seiun.co/)|√|
-|[Xihelv (曦和律) CHN](https://github.com/oxygen-dioxide/Xihelv-Chinese-CVVC)|Chinese (CVVC)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|×|
-|[Xihelv (曦和律) JPN](https://github.com/oxygen-dioxide/Xihelv-Japanese-VCV)|Japanese (VCV)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|×|
+|[Tsukiyama Tomo JA ReBirth](https://github.com/oxygen-dioxide/tsukiyama-tomo-jpn-rebirth)|Japanese (VCV)|UTAU|[Huro Nomoe](https://huronomoe.ru/)|√|
+|[Viki Hopper JA](https://github.com/oxygen-dioxide/viki-hopper-jpn)|Japanese (CVVC)|UTAU|[Seiun](https://www.seiun.co/)|√|
+|[Xihelv (曦和律) ZH](https://github.com/oxygen-dioxide/Xihelv-Chinese-CVVC)|Chinese (CVVC)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|×|
+|[Xihelv (曦和律) JA](https://github.com/oxygen-dioxide/Xihelv-Japanese-VCV)|Japanese (VCV)|UTAU|[Kohane君](https://space.bilibili.com/4309527)|×|
